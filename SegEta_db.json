@@ -1,0 +1,39 @@
+# Guia de Inventario: 0 id, 1 Nombre, 2 Autor, 3 Categoria, 4 Cantidad, 5 Precio
+
+{
+    "g1": {
+        "id": g1,
+        "nombre": "Las batallas del viento",
+        "autor": "Rodolfo RR. Gutierrez",
+        "categoria": "General",
+        "cantidad": 5,
+        "precio": 50000
+    },
+    "g2": {
+        "id": g2,
+        "nombre": "Misterio en la Colina",
+        "autor": "Brayton Cast",
+        "categoria": "General",
+        "cantidad": 30,
+        "precio": 10000
+    },
+    "i1": {
+        "id": i1,
+        "nombre": "Animales en tu armario",
+        "autor": "Karl Cherry",
+        "categoria": "Infantil",
+        "cantidad": 15,
+        "precio": 7000
+    },
+    "i2": {
+        "id": i2,
+        "nombre": "Cantando colores",
+        "autor": "Sil Sang",
+        "categoria": "Infantil",
+        "cantidad": 25,
+        "precio": 12000
+    }
+}
+
+
+
